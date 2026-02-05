@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Designing Computer Science Education">
+    <meta name="author" content="Michael Ball, Dan Garcia">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- <link rel="stylesheet" href="/assets/css/style.css?v=1.0"> -->
+    <title>Accessibility & Inclusivity</title>
+    <link rel="stylesheet" href="https://use.typekit.net/wea7iop.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <style>
+      :root {
+        /* UC Berkeley Color Palette from brand.berkeley.edu */
+        /* legacy / classic colors */
+        --berkeley-blue: #003262;
+        --california-gold: #fdb515;
+        --founders-rock: #3b7ea1;
+        --medalist: #c4820e;
+
+        /* secondary palette */
+        /* neutrals */
+        --wellman-tile: #d9661f;
+        --bay-fog: #ddd5c7;
+        --sather-gate: #b9d3b6;
+
+        /* vibrant variants */
+        --rose-garden: #ee1f60;
+        --lawrence: #00b0da;
+        --ion: #cfdd45;
+
+        /* brights */
+        --golden-gate: #ed4e33;
+        --lap-lane: #00a598;
+        --soybean: #859438;
+
+        /* darks */
+        --south-hall: #6c3302;
+        --pacific: #46535e;
+        --stone-pine: #584f29;
+
+        --bs-primary-rgb: 00, 50, 98;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        font-family: "freight-micro-pro", "FreightTextPro", "Freight Text", "Baskerville", Georgia,serif;
+        font-weight: 400;
+        font-style: normal;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <style>
+  html {
+    min-height: 100%;
+    padding: 8px 24px;
+    border-left: 24px solid var(--berkeley-blue);
+    border-right: 24px solid var(--california-gold);
+  }
+  h1, h2, h3, h4, hr {
+    color: var(--berkeley-blue);
+  }
+</style>
+
+<nav class="col-lg-8 mx-auto p-1">
+  <a href="http://localhost:4000">˿ Home</a>
+</nav>
+
+<main class="col-lg-8 mx-auto p-3 py-md-5">
+  <h1>HW5: Accessibility & Inclusivity
+    <br>
+    <small>CS302, Spring 2026</small>
+  </h1>
+
+  <section>
+    <ul>
+      <li><strong>Due Date: </strong>11:59 PM on Wednesday, April 17, 2024</li>
+      <li><strong><a href="https://docs.google.com/document/d/1Y-WDIqxd3zMuGOFo8HmZ16R07CvghrcyiXmV6eCMbg4/edit?tab=t.0#heading=h.gjdgxs" target="_blank">Homework 5 Responses Document</a></strong> (<a href="https://drive.google.com/drive/u/1/folders/18oIeOn0Ziu5vLbqyNVa1207NXu5_IYvt">Google Drive Folder</a>)</li>
+      <li><strong>Peer Comments Due: </strong> 12 PM on Friday, April 19, 2024 </li>
+    </ul>
+  </section>
+  <hr>
+
+
+<p>Your class will be uniquely filled with students who are all different. We want our courses to be accessible to all students taking them. In this homework you will dig more into accessibility and inclusivity and audit your course/past iterations of your course to find areas to improve.</p>
+
+<h2 id="audit-1-accessibilitykeyboard-test-of-website">Audit #1: Accessibility/Keyboard test of Website</h2>
+
+<p>This audit will check your website for accessibility issues, like those faced by students using a screen reader or just a keyboard with no mouse.</p>
+
+<h3 id="pick-a-page-to-audit">Pick a page to audit</h3>
+
+<p>If your website has been audited recently or uses the [berkeley-class-site][berkeley-class-site] template, you might want to pick a different page to audit. You can pick any page on your website, but it is recommended to pick the homepage or a page that has a lot of content.</p>
+
+<p>[berkeley-class-site]:</p>
+
+<p>Step 1: Send HTML of homepage through validator <a href="https://validator.w3.org/"><u>https://validator.w3.org/</u></a></p>
+
+<p>Step 2: <a href="https://www.deque.com/get-started-axe-devtools-browser-extension/?utm_medium=referral&amp;utm_source=deque.com&amp;utm_campaign=devtools"><u>Automated audit with the aXe Dev Tools</u></a>
+    * Install the aXe DevTools browser extension (just the free version)
+    * Run through the automated audit of 1 page of your course website.
+    * Optional: You may want to try the “Linter” static analysis tool <a href="https://www.deque.com/axe/devtools/linter/">aXe Linter</a></p>
+
+<p>Step 3: <a href="https://webaccess.berkeley.edu/resources/tips-and-how-tos/how-do-keyboard-testing"><u>Keyboard testing Guide</u></a></p>
+
+<p>On the responses document, write up results for each step. Be sure to mention any:</p>
+
+<ul>
+  <li>What was the page that was audited?
+    <ul>
+      <li>What was the URL of the page?</li>
+      <li>What is the purpose of the page?</li>
+    </ul>
+  </li>
+  <li>Validation issues?</li>
+  <li>Top aXe audit issues?</li>
+  <li>Keyboard issues?</li>
+  <li>Links to any GitHub (etc) issues you created to fix these problems.
+    <ul>
+      <li>Create the GitHub issues now, even if you might not be responsible for fixing them.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>There should be 1 writeup per step per course.
+See if you can fix any of these issues this semester. (Definitely aim to get the top issues fixed by the course starts this summer if you are teaching a class.)</p>
+
+<h2 id="audit-2-content-of-one-piece-of-content-per-teammate">Audit #2: Content of One Piece of Content Per Teammate</h2>
+
+<p>This audit will check your content for inclusivity.</p>
+
+<p>First, to familiarize yourself with inclusivity on content, read (no need to comment):</p>
+
+<ul>
+  <li><a href="https://docs.google.com/document/d/1hSTI0Pljrb3fglKi6xvvcQYzKnDgLfaXMv-POTj6KSc/edit?tab=t.0#heading=h.snwazixs4a7s"><em>CS Content Inclusivity Guide</em></a> (by Pamela Fox)</li>
+  <li><a href="https://drive.google.com/file/d/1HdN_vQVxYYx0QITzmbgB-O5yxbO0z6gi/view"><em>Using Inclusive Language</em></a> (by Pamela Fox)</li>
+  <li><a href="https://docs.google.com/document/d/1UdNfx5uxZ3LV54El94hz4T6UWuG9gv-p4rPlPc0lukg/edit?tab=t.0#heading=h.2381w19ws52d"><em>Suggested Best Practices</em></a> (by Zephyr Omaly, Caroline Liu, Vron Vance, and Kellyann Ye)</li>
+  <li>Bonus: <a href="https://alexjs.com/"><em>https://alexjs.com/</em></a></li>
+</ul>
+
+<p>For each p, pick a different piece of content on the scale of a homework assignment, lab assignment, lecture, textbook chapter, exam, etc, where you can find at least one thing to change to make it more inclusive and accessible. Write up on the responses document what you would change and why you are changing it.</p>
+
+<h2 id="audit-3-inclusivity-of-syllabus">Audit #3: Inclusivity of Syllabus</h2>
+<p>Now that each of you have learned about accessibility and inclusivity, work as a team to carefully go through your syllabus and audit the wording. Imagine how different students would read and what their reactions would be (low confidence students, high confidence students, those with lots of programming experience, those with little experience, etc).</p>
+
+<p>Find a few things to improve about your syllabus and write it up as a team in the responses document.</p>
+
+<h2 id="required-listeningreading">Required listening/Reading</h2>
+
+<ul>
+  <li>
+    <p><a href="https://drive.google.com/file/d/1nSetm35_03U139DWyOvupyMkqK4AqXiQ/view?usp=share_link"><em>Three Proposals to Change CS Education to Reduce Inequity</em></a></p>
+  </li>
+  <li>
+    <p><a href="https://docs.google.com/document/d/1GESh8UTxRLt1CcvM9OHwwxyfmPjKCgwpvwl86GpiRLY/comment">CS Ed podcast: Grading for equity</a></p>
+  </li>
+</ul>
+
+<h2 id="rubric-do-this-for-full-credit">Rubric (Do this for full credit)</h2>
+
+<ul>
+  <li>
+    <p>(Team) Audit #1 writeup including each of the three steps on the responses document</p>
+  </li>
+  <li>
+    <p>(Individual) Audit #2 writeup for one piece of content per teammate on the responses document</p>
+  </li>
+  <li>
+    <p>(Individual) Left 1 or more comments on <a href="https://drive.google.com/file/d/1LCG9ZOUAfXELVhpWu32gsIJNEr1Reik0/view?usp=share_link"><em>Three Proposals to Change CS Education to Reduce Inequity</em></a></p>
+  </li>
+  <li>
+    <p>(Individual) Left 1 or more comments on <a href="https://docs.google.com/document/d/1GESh8UTxRLt1CcvM9OHwwxyfmPjKCgwpvwl86GpiRLY/comment"><em>CS Ed podcast: Grading for equity</em></a></p>
+  </li>
+  <li>
+    <p>(Due 10:00 AM Friday) (Individual) Left 1 or more comments on 2 other courses’ Audit on the responses document.</p>
+  </li>
+</ul>
+
+</main>
+
+    <!-- <footer>
+      &copy; to me
+    </footer> -->
+  </body>
+</html>

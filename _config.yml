@@ -1,0 +1,43 @@
+
+
+url: https://cs302.org
+base_path: /sp25
+semester: Spring 2026
+
+title: CS 302 | Spring 2026
+author: Michael Ball, Dan Garcia
+description: Designing Computer Science Education
+
+# markdown: rdiscount
+
+staff:
+  - name: Michael Ball
+    image: images/michael.jpg
+    pronouns: he/him
+    email: ball@berkeley.edu
+    role: co-instructor
+  - name: Dan Garcia
+    image: images/dan.jpg
+    pronouns: he/him
+    email: ddgarcia@berkeley.edu
+    role: co-instructor
+  - name: Victor Huang
+    image: images/victor.jpg
+    pronouns: he/him
+    email: vortic@berkeley.edu
+    role: reader
+
+
+# This should be shared view-only just to students.
+google_drive_folder: https://drive.google.com/drive/u/1/folders/18oIeOn0Ziu5vLbqyNVa1207NXu5_IYvt
+
+## TODO: CURRENTLY NOT USED...
+# assignments:
+#   - name: HW1
+#     due_date: due_date_1
+#     peer_feedback_due_date: peer_feedback_1
+#     responses_document: responses_1
+#   - name: HW2
+#     due_date: due_date_2
+#     peer_feedback_due_date: peer_feedback_2
+#     responses_document: responses_2

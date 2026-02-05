@@ -1,0 +1,38 @@
+---
+layout: base
+---
+
+
+<style>
+  html {
+    min-height: 100%;
+    padding: 8px 24px;
+    border-left: 24px solid var(--berkeley-blue);
+    border-right: 24px solid var(--california-gold);
+  }
+  h1, h2, h3, h4, hr {
+    color: var(--berkeley-blue);
+  }
+</style>
+
+<nav class="col-lg-8 mx-auto p-1">
+  <a href="{{ site.url }}">˿ Home</a>
+</nav>
+
+<main class="col-lg-8 mx-auto p-3 py-md-5">
+  <h1>HW{{ page.number }}: {{ page.title }}
+    <br>
+    <small>CS302, {{ site.semester }}</small>
+  </h1>
+
+  <section>
+    <ul>
+      <li><strong>Due Date: </strong>11:59 PM on {{ page.due_date }}</li>
+      <li><strong><a href="{{ page.responses_doc }}" target="_blank">Homework {{ page.number }} Responses Document</a></strong> (<a href="{{ site.google_drive_folder }}">Google Drive Folder</a>)</li>
+      <li><strong>Peer Comments Due: </strong> 12 PM on {{ page.peer_review_date }} </li>
+    </ul>
+  </section>
+  <hr>
+
+  {{ content }}
+</main>
