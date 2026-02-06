@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "CS 302: Spring 2026"
+title: "CS 302: Spring 2026 -- Designing Computer Science Education"
 layout: default
 ---
 
@@ -12,7 +12,13 @@ layout: default
 Blank rows will be filled in soon, though topics may change based on
 need and guest speakers.
 
-_Homework assignments which say "Spring 2024" at the top are last years versions. The dates, and minor details will change!_
+_Homework assignments which say "Spring 2025" at the top are last years versions. The dates, and minor details will change!_
+
+**Typical class format:**
+- Friday courses, discussion of previous week\'s homework, discussion on the current week\'s topic, and then assignment of the next week\'s homework.
+- Homework is generally due on _Wednesday_ at 11:59pm, and will be discussed in class on the following _Friday_.
+- Between Wednesday and Friday, you will be expected to review the homework of your peers, and provide feedback on their work.
+
 
 {:.table .table-striped}
 | Week | Date | Class topic | Homework | Due Date |
@@ -20,9 +26,9 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 | 1    | 1/22 | No Meeting | No Homework | (none) |
 | 2    | 1/29 | No Meetings | No Homework | (none) |
 | 3    | 2/06 | Info, 302 overview | No Homework | (none) |
-| 4    | 2/13 | Logistics | [Homework 1][hw1] | (due 2/18) |
-| 5    | 2/20 | Lecturing and Class formats | [Homework 2][hw2] | (due 2/25) |
-| 6    | 2/27 | **No Class (SIGCSE)** | (none) | (none) |
+| 4    | 2/13 | Logistics | [Homework 1][hw1] | (due 2/) |
+| 6    | 2/20 | **No Class (SIGCSE)** | (none) | (none) |
+| 5    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | (due 2/25) |
 | 7    | 3/06 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | (due 3/11) |
 | 8    | 3/13 | Guest Justin Hsia from UW | [Homework 4 - Exam Draft Part 2][hw4] | (not assigned) |
 | 9    | 3/20 | Grading for Equity & A's for All... | (none) | (none) |
@@ -49,7 +55,7 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
 [hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/preview
-[hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/preview
+  [hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/preview
 [hw12]: https://docs.google.com/document/d/1IEOIYp9W4NGJyCep1VDqUm_vJHjCAVXvlVrQzjsfZl4/preview
 [hw13]: https://docs.google.com/document/d/1zsj3UMsKjiz7Rc8m_W_UBQ2gkXkXI32s_KeJabqvzFw/preview
 
