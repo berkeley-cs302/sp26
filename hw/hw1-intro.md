@@ -4,10 +4,10 @@ title: Introduction
 number: 1
 permalink: /hw/hw1/
 layout: hw
-due_date: Wednesday, February 19, 2025
-peer_review_date: Friday, February 21, 2025
-responses_doc: https://docs.google.com/document/d/1P0gkIe7zrb717Bxgersdd3sl6d_veND7lgaek_BRCSo/edit?tab=t.0
-colleen_lewis_transcript_doc: https://docs.google.com/document/d/1Z-KQQvGDKv52M8kuK4Y9h4FFexwNcH2SMa0MvtvZDvI/edit?tab=t.0#heading=h.gjdgxs
+due_date: Wednesday, February 25, 2025
+peer_review_date: Friday, February 27, 2025
+responses_doc: https://docs.google.com/document/d/1ejdX75a_CvJL8MiHlfjhMgpwau4qszxPnTMzbsMhXQU/edit?tab=t.0
+colleen_lewis_transcript_doc: https://docs.google.com/document/d/12N9ddToNeOWUIM05s1ipNPfcUiNfAYEszKIHNkIHbGE/edit?tab=t.0
 ---
 
 ## Directions
