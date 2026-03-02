@@ -4,9 +4,9 @@ title: Planning Your Course
 number: 2
 layout: hw
 permalink: /hw/hw2/
-due_date: Wednesday, February 26, 2025
-peer_review_date: Friday, February 28, 2025
-responses_doc: https://docs.google.com/document/d/1DrUdiuSsLnJbT4gg4jB_yZbPEwMU7oiUmsZewlmZN_w/edit?tab=t.0
+due_date: Wednesday, March 4, 2025
+peer_review_date: Friday, March 6, 2025
+responses_doc:
 ---
 
 <!-- Readings w/ responses -->
