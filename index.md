@@ -34,12 +34,12 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 9    | 3/20 | Grading for Equity & A's for All... | (none) | (none) |
 | 10   | 3/27 | **Spring Break** | (none) | (none) |
 | 11   | 4/03 | DSP, Extensions, Incompletes | TBD | (none) |
-| 13   | 4/10 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (due 4/15) |
-| 14   | 4/17 | TBD | TBD | (none) |
-| 15   | 4/24 | Teaching Statements & Careers | [Homework 6 - Teaching Statements][hw6] | (due 4/29 )|
-| 16   | 5/01 | Final Grading / Something Fun | [Homework 7 - Course Policies][hw7] | (due 5/8) | (none) |
-| 17   | 5/08 | No Class - RRR Week | No Homework | (none) |
-| 18   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
+| 12   | 4/10 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (due 4/15) |
+| 13   | 4/17 | TBD | TBD | (none) |
+| 14   | 4/24 | Teaching Statements & Careers | [Homework 6 - Teaching Statements][hw6] | (due 4/29 )|
+| 15   | 5/01 | Final Grading / Something Fun | [Homework 7 - Course Policies][hw7] | (due 5/8) | (none) |
+| 16   | 5/08 | No Class - RRR Week | No Homework | (none) |
+| 17   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
 
 [hw1]: /sp26/hw/hw1
 [hw2]: /sp26/404/
