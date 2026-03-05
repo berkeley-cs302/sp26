@@ -42,7 +42,7 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 17   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
 
 [hw1]: /sp26/hw/hw1
-[hw2]: /sp26/404/
+[hw2]: /sp26/hw/hw2
 [hw3]: /sp26/404/
 [hw4]: /sp26/404/
 [hw5]: /sp26/404/
