@@ -28,7 +28,7 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 3    | 2/06 | Info, 302 overview | No Homework | (none) |
 | 4    | 2/13 | Intro, Logistics | [Homework 1][hw1] | (due 2/25) |
 | 5    | 2/20 | **No Class (SIGCSE)** | (none) | (none) |
-| 6    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | (due 3/4) |
+| 6    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | (due 3/6 due to delayed release) |
 | 7    | 3/06 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | (due 3/11) |
 | 8    | 3/13 | TBD - Accessibility? | [Homework 4 - Exam Draft Part 2][hw4] | (not assigned) |
 | 9    | 3/20 | Grading for Equity & A's for All... | (none) | (none) |
