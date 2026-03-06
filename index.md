@@ -31,11 +31,11 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 6    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | (due 3/6 due to delayed release) |
 | 7    | 3/06 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | (not assigned yet) |
 | 8    | 3/13 | TBD - Accessibility? | [Homework 4 - Exam Draft Part 2][hw4] | (not assigned yet) |
-| 9    | 3/20 | Grading for Equity & A's for All... | (none) | (none) |
+| 9    | 3/20 | Guest: Lauren Bricker (UW) | (none) | (none) |
 | 10   | 3/27 | **Spring Break** | (none) | (none) |
 | 11   | 4/03 | DSP, Extensions, Incompletes | TBD | (none) |
 | 12   | 4/10 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (not assigned yet) |
-| 13   | 4/17 | TBD | TBD | (none) |
+| 13   | 4/17 | Grading for Equity & A's for All... | TBD | (none) |
 | 14   | 4/24 | Teaching Statements & Careers | [Homework 6 - Teaching Statements][hw6] | (not assigned yet)|
 | 15   | 5/01 | Final Grading / Something Fun | [Homework 7 - Course Policies][hw7] | (not assigned yet) |
 | 16   | 5/08 | No Class - RRR Week | No Homework | (none) |
