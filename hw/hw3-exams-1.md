@@ -4,9 +4,9 @@ title: Draft ½ of a Sample Exam
 number: 3
 permalink: /hw/hw3/
 layout: hw
-due_date: Wednesday, March 12, 2024
-peer_review_date: Friday, March 14, 2024
-responses_doc: https://docs.google.com/document/d/1KJI3VskWAegPHl7U3qUhUBsK1GrIBbYDb3-S_NEGa9A/edit
+due_date: Wednesday, March 11, 2026
+peer_review_date: Friday, March 13, 2026
+responses_doc: https://docs.google.com/document/d/16uJQp8S1ADq6-8ikAWy5mw8PrE2Pi-qPciZs_wbpN68/edit
 ---
 
 [dg_csed_podcast_transcript]: https://docs.google.com/document/d/1NCPWZxbp4MWxYdC39rjGB8MtNiSLgA-u1wfcJamodjU/comment
@@ -23,7 +23,7 @@ We'd encourage sharing 1 or 2 questions publicly, but this is not a requirement.
 
 ### Exam Format and Observations
 
-Publicly, please write some comments about the the exams in your course:
+Publicly, please write some comments about the exams in your course:
 
 * How many exams are there?
 * How long are they?
