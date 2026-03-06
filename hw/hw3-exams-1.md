@@ -9,8 +9,8 @@ peer_review_date: Friday, March 13, 2026
 responses_doc: https://docs.google.com/document/d/16uJQp8S1ADq6-8ikAWy5mw8PrE2Pi-qPciZs_wbpN68/edit
 ---
 
-[dg_csed_podcast_transcript]: https://docs.google.com/document/d/1NCPWZxbp4MWxYdC39rjGB8MtNiSLgA-u1wfcJamodjU/comment
-[examining_fairness_assessments]: https://drive.google.com/drive/u/1/folders/1kSg75QcfFhbJVZJ_byRNqYsn5MnFLfrs
+[dg_csed_podcast_transcript]: https://docs.google.com/document/d/1MCz8OvTkNFtOsosLWyogOhZEBvsVblz_vo43Jd9E8vw/comment
+[examining_fairness_assessments]: https://drive.google.com/file/d/1vEYOIBz3XgTfpuECqBOKqt6QR5D0Amn9/view?usp=drive_link
 
 ## Half of First Exam Draft
 
