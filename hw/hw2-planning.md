@@ -11,7 +11,7 @@ responses_doc:
 
 <!-- Readings w/ responses -->
 
-[hw2_template]: https://docs.google.com/document/d/12qQakhfuSWPwiec6kqqCznc3IxxSueGdomamB8pXlYA/template/preview
+[hw2_template]: https://docs.google.com/document/d/1squ_hZWMgYFdbxY-qZI_MVokmzEFgEJebDa1UcY2qpU/edit?tab=t.0
 [hw2_design_issues]: https://drive.google.com/file/d/1u5Z9fBDAnrkyU6XzGWGg1myZZGmMxs0s/view
 [hw2_clancy_history]: https://drive.google.com/file/d/1u5Z9fBDAnrkyU6XzGWGg1myZZGmMxs0s/view?usp=share_link
 

@@ -1,5 +1,5 @@
-# CS302 Spring 2024
-## https://cs302.org/sp24/
+# CS302 Spring 2026
+## https://cs302.org/sp26/
 
 The most basic Jekyll site ever.
 
