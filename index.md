@@ -44,7 +44,7 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 [hw1]: /sp26/hw/hw1
 [hw2]: /sp26/hw/hw2
 [hw3]: /sp26/hw/hw3
-[hw4]: /sp26/404/
+[hw4]: /sp26/hw/hw4
 [hw5]: /sp26/404/
 [hw6]: /sp26/404/
 <!-- [hw6]: https://docs.google.com/document/d/1fztk5iGpgTHbOJn4PGeAFFQivfwYuSaiDxUmAEgTEmw/preview?tab=t.0 -->
