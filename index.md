@@ -38,10 +38,7 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 13   | 4/17 | Grading for Equity & A's for All... | TBD |  |
 | 14   | 4/24 | Teaching Statements & Careers | [Homework 6 - Teaching Statements][hw6] | (not assigned yet)|
 | 15   | 5/01 | Final Grading / Something Fun | [Homework 7 - Course Policies][hw7] | (not assigned yet) |
-<!--
-| 16   | 5/08 | No Class - RRR Week | No Homework |  |
-| 17   | 6/TBD | Pre-Summer Check-In | No Homework |  |
--->
+
 
 [hw1]: /sp26/hw/hw1
 [hw2]: /sp26/hw/hw2
