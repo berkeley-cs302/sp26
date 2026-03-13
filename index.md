@@ -30,7 +30,7 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 5    | 2/20 | **No Class (SIGCSE)** | (none) | (none) |
 | 6    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | (due 3/6 due to delayed release) |
 | 7    | 3/06 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | (not assigned yet) |
-| 8    | 3/13 | TBD - Accessibility? | [Homework 4 - Exam Draft Part 2][hw4] | (not assigned yet) |
+| 8    | 3/13 | AI | [Homework 4 - Exam Draft Part 2][hw4] | (not assigned yet) |
 | 9    | 3/20 | Guest: Lauren Bricker (UW) | (none) | (none) |
 | 10   | 3/27 | **Spring Break** | (none) | (none) |
 | 11   | 4/03 | DSP, Extensions, Incompletes | TBD | (none) |
