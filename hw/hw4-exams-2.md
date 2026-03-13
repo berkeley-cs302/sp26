@@ -5,22 +5,22 @@ title: Draft Second ½ of a Sample Exam
 number: 4
 permalink: /hw/hw4/
 layout: hw
-due_date: Wednesday, March 13, 2024 (+ whatever you need, because we messed up...)
-peer_review_date: Friday, March 15, 2024 (+ some days)
-responses_doc: https://docs.google.com/document/d/1VAtLyEraZu-FdAPf5ym9AvK6vdxxKYFnBQzRQxfrNXk/edit#heading=h.gjdgxs
+due_date: Wednesday, March 18, 2026
+peer_review_date: Friday, March 20, 2026
+responses_doc: https://docs.google.com/document/d/1vrcHL-obZLjvKNvWS-Jjfkd1RavKxiVyVwwn031O0Ic/edit
 ---
 
-[hw05_proctoring_guidelines]: https://drive.google.com/drive/u/1/folders/1kSg75QcfFhbJVZJ_byRNqYsn5MnFLfrs
+[hw05_proctoring_guidelines]: https://drive.google.com/file/d/1NEuLCwW_-Y9Tdk9gZOkEN60hijgNVeIB/view?usp=drive_link
 
 ## Second half of First Exam Draft (or second quiz!)
 
-For this assignment you will be drafting the second half of your first exam. If your course does quizzes instead, draft the second quiz instead.
+For this assignment, you will be drafting the second half of your first exam. If your course does quizzes instead, draft the second quiz instead.
 
 Please create a google doc or pdf draft of your whole exam / second quiz and share with the instructors; you can also just use the same document where you made your first half of the exam.
 
 ## Exam Review Plan
 
-Create a review plan for how someone should review your exam. As an example, here's the [<u>61A exam question review template</u>](https://docs.google.com/document/d/1bDJSvURF5UwNaFjqR2ygpmwK7Wt7G0M6Y3c2bWJU8-o/edit#). The questions you ask reviewers should depend on your exam topic, format, and common issues that have been found with past exam questions.
+Create a review plan for how someone should review your exam. As an example, here's the [<u>61A exam question review template</u>](https://docs.google.com/document/d/1EA2y6ykv8uzj_b4oXTqKNGG8oGaHqhONhJg2fqzEZio/edit). The questions you ask reviewers should depend on your exam topic, format, and common issues that have been found with past exam questions.
 
 ## Exam Logistics
 
@@ -28,7 +28,7 @@ Write up your exam logistics. Here are some things to consider:
 
 - Remote vs. in-person vs hybrid exam?
 - Alternate times?
-- Missed exam for an emergency? For a non emergency?
+- Missed exam for an emergency? For a non-emergency?
 - Proctoring plan?
 - Exam software?
 - How do you plan to do clarifications during the exam for any mistakes that weren’t caught during the review process?
