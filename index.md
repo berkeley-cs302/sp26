@@ -23,16 +23,16 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 {:.table .table-striped}
 | Week | Date | Class topic | Homework | Due Date |
 |:-----|------|-------------|:---------:|:---------:|
-| 1    | 1/22 | No Meeting | No Homework |   |
-| 2    | 1/29 | No Meetings | No Homework |  |
-| 3    | 2/06 | Info, 302 overview | No Homework |  |
+| 1    | 1/22 | No Meeting |  |   |
+| 2    | 1/29 | No Meeting |  |  |
+| 3    | 2/06 | Info, 302 overview |  |  |
 | 4    | 2/13 | Intro, Logistics | [Homework 1][hw1] | 2/25 |
-| 5    | 2/20 | **No Class (SIGCSE)** | (none) |  |
+| 5    | 2/20 | **No Class (SIGCSE)** |  |  |
 | 6    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | 3/6 |
 | 7    | 3/06 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | 3/11 |
 | 8    | 3/13 | AI | [Homework 4 - Exam Draft Part 2][hw4] | 3/18 |
-| 9    | 3/20 | Guest: Lauren Bricker (UW) | (none) |  |
-| 10   | 3/27 | **Spring Break** | (none) |  |
+| 9    | 3/20 | Guest: Lauren Bricker (UW) |  |  |
+| 10   | 3/27 | **Spring Break** |  |  |
 | 11   | 4/03 | DSP, Extensions, Incompletes | TBD |  |
 | 12   | 4/10 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (not assigned yet) |
 | 13   | 4/17 | Grading for Equity & A's for All... | TBD |  |
