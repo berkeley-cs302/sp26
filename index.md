@@ -23,28 +23,27 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 {:.table .table-striped}
 | Week | Date | Class topic | Homework | Due Date |
 |:-----|------|-------------|:---------:|:---------:|
-| 1    | 1/22 | No Meeting | No Homework | (none) |
-| 2    | 1/29 | No Meetings | No Homework | (none) |
-| 3    | 2/06 | Info, 302 overview | No Homework | (none) |
-| 4    | 2/13 | Intro, Logistics | [Homework 1][hw1] | (due 2/25) |
-| 5    | 2/20 | **No Class (SIGCSE)** | (none) | (none) |
-| 6    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | (due 3/6 due to delayed release) |
-| 7    | 3/06 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | (not assigned yet) |
-| 8    | 3/13 | TBD - Accessibility? | [Homework 4 - Exam Draft Part 2][hw4] | (not assigned yet) |
-| 9    | 3/20 | Guest: Lauren Bricker (UW) | (none) | (none) |
-| 10   | 3/27 | **Spring Break** | (none) | (none) |
-| 11   | 4/03 | DSP, Extensions, Incompletes | TBD | (none) |
+| 1    | 1/22 | No Meeting |  |   |
+| 2    | 1/29 | No Meeting |  |  |
+| 3    | 2/06 | Info, 302 overview |  |  |
+| 4    | 2/13 | Intro, Logistics | [Homework 1][hw1] | 2/25 |
+| 5    | 2/20 | **No Class (SIGCSE)** |  |  |
+| 6    | 2/27 | Lecturing and Class formats | [Homework 2][hw2] | 3/6 |
+| 7    | 3/06 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | 3/11 |
+| 8    | 3/13 | AI | [Homework 4 - Exam Draft Part 2][hw4] | 3/18 |
+| 9    | 3/20 | Guest: Lauren Bricker (UW) |  |  |
+| 10   | 3/27 | **Spring Break** |  |  |
+| 11   | 4/03 | DSP, Extensions, Incompletes | TBD |  |
 | 12   | 4/10 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (not assigned yet) |
-| 13   | 4/17 | Grading for Equity & A's for All... | TBD | (none) |
+| 13   | 4/17 | Grading for Equity & A's for All... | TBD |  |
 | 14   | 4/24 | Teaching Statements & Careers | [Homework 6 - Teaching Statements][hw6] | (not assigned yet)|
 | 15   | 5/01 | Final Grading / Something Fun | [Homework 7 - Course Policies][hw7] | (not assigned yet) |
-| 16   | 5/08 | No Class - RRR Week | No Homework | (none) |
-| 17   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
+
 
 [hw1]: /sp26/hw/hw1
 [hw2]: /sp26/hw/hw2
 [hw3]: /sp26/hw/hw3
-[hw4]: /sp26/404/
+[hw4]: /sp26/hw/hw4
 [hw5]: /sp26/404/
 [hw6]: /sp26/404/
 <!-- [hw6]: https://docs.google.com/document/d/1fztk5iGpgTHbOJn4PGeAFFQivfwYuSaiDxUmAEgTEmw/preview?tab=t.0 -->
