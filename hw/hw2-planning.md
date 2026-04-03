@@ -4,28 +4,16 @@ title: Planning Your Course
 number: 2
 layout: hw
 permalink: /hw/hw2/
-<<<<<<< HEAD
-due_date: Wednesday, March 4, 2025
-peer_review_date: Friday, March 6, 2025
-responses_doc:
-=======
 due_date: Friday, March 6, 2026
 peer_review_date: Monday, March 9, 2026
 responses_doc: https://docs.google.com/document/d/1Ik5mHZu28OeDNVcZCENclj4uAJOH_HLIapXg2LgLvOw/edit?tab=t.0
->>>>>>> ed0f2217d9c2022998a49a416afbac5177a88c9b
 ---
 
 <!-- Readings w/ responses -->
 
-<<<<<<< HEAD
-[hw2_template]: https://docs.google.com/document/d/1squ_hZWMgYFdbxY-qZI_MVokmzEFgEJebDa1UcY2qpU/edit?tab=t.0
-[hw2_design_issues]: https://drive.google.com/file/d/1u5Z9fBDAnrkyU6XzGWGg1myZZGmMxs0s/view
-[hw2_clancy_history]: https://drive.google.com/file/d/1u5Z9fBDAnrkyU6XzGWGg1myZZGmMxs0s/view?usp=share_link
-=======
 [hw2_template]: https://docs.google.com/document/d/1Ik5mHZu28OeDNVcZCENclj4uAJOH_HLIapXg2LgLvOw/edit
 [hw2_design_issues]: https://drive.google.com/file/d/1Joi7UrLwx18Q2QXTu5M-ox7DfeM5KbVQ/view
 [hw2_clancy_history]: https://drive.google.com/file/d/1cdCvcptYQW2cVP_1o35IOQ89A7LisExP/view
->>>>>>> ed0f2217d9c2022998a49a416afbac5177a88c9b
 
 ## Creating your Summer Class Format
 

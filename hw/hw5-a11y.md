@@ -5,13 +5,13 @@ title: Accessibility & Inclusivity
 number: 5
 permalink: /hw/hw5/
 layout: hw
-due_date: Wednesday, April 17, 2024
-peer_review_date: Friday, April 19, 2024
-responses_doc: https://docs.google.com/document/d/1Y-WDIqxd3zMuGOFo8HmZ16R07CvghrcyiXmV6eCMbg4/edit?tab=t.0#heading=h.gjdgxs
+due_date: Wednesday, April 8, 2024
+peer_review_date: Friday, April 10, 2024
+responses_doc: https://docs.google.com/document/d/1-Amq_CvUcFo7Wvqc85EiCQxt5zolQT30lRvC52hwBBA/edit?tab=t.0
 ---
 
-[grading_for_equity_transcript]: https://docs.google.com/document/d/1GESh8UTxRLt1CcvM9OHwwxyfmPjKCgwpvwl86GpiRLY/comment
-[three_proposals_posts]: https://drive.google.com/file/d/1nSetm35_03U139DWyOvupyMkqK4AqXiQ/view?usp=share_link
+[grading_for_equity_transcript]: https://docs.google.com/document/d/1Ac0SLKEZkqa8H-hswLdNEBQPN5M_pfy3ol9aPSZhtH0/edit?tab=t.0#heading=h.mc05bw38f67
+[three_proposals_posts]: https://drive.google.com/file/d/1QpWVHCrWk7nKzv3elPDcF6_HkLijKDHj/view?usp=sharing
 
 Your class will be uniquely filled with students who are all different. We want our courses to be accessible to all students taking them. In this homework you will dig more into accessibility and inclusivity and audit your course/past iterations of your course to find areas to improve.
 
@@ -23,7 +23,7 @@ This audit will check your website for accessibility issues, like those faced by
 
 If your website has been audited recently or uses the [berkeley-class-site][berkeley-class-site] template, you might want to pick a different page to audit. You can pick any page on your website, but it is recommended to pick the homepage or a page that has a lot of content.
 
-[berkeley-class-site]:
+[berkeley-class-site]: https://github.com/berkeley-cdss/berkeley-class-site
 
 Step 1: Send HTML of homepage through validator [<u>https://validator.w3.org/</u>](https://validator.w3.org/)
 
@@ -61,6 +61,9 @@ First, to familiarize yourself with inclusivity on content, read (no need to com
 
 For each p, pick a different piece of content on the scale of a homework assignment, lab assignment, lecture, textbook chapter, exam, etc, where you can find at least one thing to change to make it more inclusive and accessible. Write up on the responses document what you would change and why you are changing it.
 
+
+**For this week:** Do not audit a PDF file, preferaably audit a webpage or other content that is easily editable. You can audit a PDF file if you have a specific change in mind that would make it more inclusive, but it is recommended to audit something else.
+
 ## Audit \#3: Inclusivity of Syllabus
 Now that each of you have learned about accessibility and inclusivity, work as a team to carefully go through your syllabus and audit the wording. Imagine how different students would read and what their reactions would be (low confidence students, high confidence students, those with lots of programming experience, those with little experience, etc).
 
@@ -69,7 +72,6 @@ Find a few things to improve about your syllabus and write it up as a team in th
 ## Required listening/Reading
 
 - [_Three Proposals to Change CS Education to Reduce Inequity_][three_proposals_posts]
-
 - [CS Ed podcast: Grading for equity][grading_for_equity_transcript]
 
 ## Rubric (Do this for full credit)
@@ -78,7 +80,7 @@ Find a few things to improve about your syllabus and write it up as a team in th
 
 - (Individual) Audit \#2 writeup for one piece of content per teammate on the responses document
 
-- (Individual) Left 1 or more comments on [_Three Proposals to Change CS Education to Reduce Inequity_](https://drive.google.com/file/d/1LCG9ZOUAfXELVhpWu32gsIJNEr1Reik0/view?usp=share_link)
+- (Individual) Left 1 or more comments on [_Three Proposals to Change CS Education to Reduce Inequity_][three_proposals_posts]
 
 - (Individual) Left 1 or more comments on [_CS Ed podcast: Grading for equity_][grading_for_equity_transcript]
 
