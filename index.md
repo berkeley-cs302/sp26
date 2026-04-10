@@ -34,10 +34,10 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 9    | 3/20 | Guest: Lauren Bricker (UW) |  |  |
 | 10   | 3/27 | **Spring Break** |  |  |
 | 11   | 4/03 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5]8 | 4/ |
-| 12   | 4/10 | DSP, Extensions, Incompletes | TBD |  |
+| 12   | 4/10 | DSP, Extensions, Incompletes | [Homework 6 - Accommodations & Document Accessibility][hw6] |  |
 | 13   | 4/17 | Grading for Equity & A's for All... | TBD |  |
-| 14   | 4/24 | Teaching Statements & Careers | [Homework 6 - Teaching Statements][hw6] | (not assigned yet)|
-| 15   | 5/01 | Final Grading / Something Fun | [Homework 7 - Course Policies][hw7] | (not assigned yet) |
+| 14   | 4/24 | Teaching Statements & Careers | [Homework 7 - Teaching Statements][hw7] | (not assigned yet)|
+| 15   | 5/01 | Final Grading / Something Fun | [Homework 8 - Course Policies][hw8] | (not assigned yet) |
 
 
 [hw1]: /sp26/hw/hw1
@@ -45,12 +45,12 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 [hw3]: /sp26/hw/hw3
 [hw4]: /sp26/hw/hw4
 [hw5]: /sp26/hw/hw5
-[hw6]: /sp26/404/
+[hw6]: /sp26/hw/hw6
 <!-- [hw6]: https://docs.google.com/document/d/1fztk5iGpgTHbOJn4PGeAFFQivfwYuSaiDxUmAEgTEmw/preview?tab=t.0 -->
-[hw7]: /sp26/404/
-[hw8]: /sp26/404
-[hw9]: /sp26/404
-[hw10]: /sp26/404
+[hw7]: /sp26/hw/hw7
+[hw8]: /sp26/hw/hw8
+[hw9]: /sp26/hw/hw9
+[hw10]: /sp26/hw/hw10
 
 
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
