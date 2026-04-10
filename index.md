@@ -33,8 +33,8 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 8    | 3/13 | AI | [Homework 4 - Exam Draft Part 2][hw4] | 3/18 |
 | 9    | 3/20 | Guest: Lauren Bricker (UW) |  |  |
 | 10   | 3/27 | **Spring Break** |  |  |
-| 11   | 4/03 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5]8 | 4/ |
-| 12   | 4/10 | DSP, Extensions, Incompletes | [Homework 6 - Accommodations & Document Accessibility][hw6] |  |
+| 11   | 4/03 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | 4/8 |
+| 12   | 4/10 | DSP, Extensions, Incompletes | [Homework 6 - Accommodations & Document Accessibility][hw6] | 4/15 |
 | 13   | 4/17 | Grading for Equity & A's for All... | TBD |  |
 | 14   | 4/24 | Teaching Statements & Careers | [Homework 7 - Teaching Statements][hw7] | (not assigned yet)|
 | 15   | 5/01 | Final Grading / Something Fun | [Homework 8 - Course Policies][hw8] | (not assigned yet) |
