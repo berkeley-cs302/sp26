@@ -115,7 +115,7 @@ If you have access to Adobe Acrobat Pro (available via [software.berkeley.edu](h
 5. Use the **Set Alternate Text** tool for images.
 6. Check the **Tags** panel to verify the document's logical structure tree.
 
-**Important:** Acrobat's checker does not catch all issues. A passing result in Acrobat does not guarantee full accessibility — always also test with a screen reader and/or an external validator like veraPDF.
+**Important:** Acrobat's checker does not catch all issues. A passing result in Acrobat does not guarantee full accessibility — always also test with a screen reader.
 
 ### Testing with Screen Readers
 
@@ -225,15 +225,11 @@ Providing both a PDF and an HTML version of key course documents is a practical 
 
 ### AI-Assisted PDF Remediation Tools
 
-Several AI-powered tools can help with large-scale or complex PDF remediation. These are **not required** for this assignment, but are worth knowing about:
+Several AI-powered tools can help with large-scale or complex PDF remediation. These are **not required** for this assignment, but may be worth exploring:
 
 - **[PDFix](https://pdfix.net/)** — Free desktop app (PDFix Desktop Lite) with veraPDF validation built in. Pro version has AI auto-tagging. Cross-platform.
-- **[PREP (Continual Engine)](https://www.continualengine.com/prep/)** — AI-powered remediation platform. Used by Stanford. Auto-tags ~90% of content. [TODO: Check if UC Berkeley has a license]
-- **[pdf4wcag.com](https://pdf4wcag.com)** — Free web-based checker using veraPDF with experimental AI-based "Human and Machine" WCAG checks.
 - **[PAC 2026 (beta)](https://pdfa.org/pdf-accessibility-checker-pac-now-with-ai/)** — Free PDF Accessibility Checker with new AI tab for evaluating semantic structure (Windows only).
-- **[OpenDataLoader](https://github.com/opendataloader-project/opendataloader-pdf)** — Open-source audit→auto-tag→PDF/UA pipeline (auto-tagging coming Q2 2026).
-
-[TODO: Add any Berkeley-specific tools or licenses here]
+- **[OpenDataLoader](https://github.com/opendataloader-project/opendataloader-pdf)** — Open-source audit→auto-tag→PDF/UA pipeline.
 
 ---
 
@@ -249,7 +245,7 @@ Several AI-powered tools can help with large-scale or complex PDF remediation. T
 - [Instructor Guide to DSP Accommodations][dsp_instructor_guide] — CTL guide for faculty
 - [ADA Title II Update for Berkeley][ada_title_ii] — Overview of the April 2026 deadline
 - [Disability Access & Compliance (DAC)](https://dac.berkeley.edu/) — Campus compliance office
-- [Report a Web Accessibility Issue](https://dap.berkeley.edu/report-web-accessibility-issue)
+
 
 ## Rubric (Do this for full credit)
 
