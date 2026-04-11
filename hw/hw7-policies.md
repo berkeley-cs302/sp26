@@ -1,5 +1,6 @@
 ---
 lang: en
+published: true
 title: Drafting Course Policies
 number: 7
 permalink: /sp25/hw/hw7/

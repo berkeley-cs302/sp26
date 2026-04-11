@@ -1,5 +1,6 @@
 ---
 lang: en
+published: true
 title: Accommodations Policies & Document Remediation
 number: 6
 permalink: /sp25/hw/hw6/
