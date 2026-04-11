@@ -3,7 +3,7 @@ lang: en
 published: true
 title: Accommodations Policies & Document Remediation
 number: 6
-permalink: /sp25/hw/hw6/
+permalink: /hw/hw6/
 layout: hw
 due_date: Wednesday, April 15, 2026
 peer_review_date: Friday, April 17, 2026
