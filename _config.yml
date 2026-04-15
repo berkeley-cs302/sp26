@@ -15,17 +15,17 @@ staff:
     image: images/michael.jpg
     pronouns: he/him
     email: ball@berkeley.edu
-    role: co-instructor
+    role: Co-instructor
   - name: Dan Garcia
     image: images/dan.jpg
     pronouns: he/him
     email: ddgarcia@berkeley.edu
-    role: co-instructor
+    role: Co-instructor
   - name: Victor Huang
     image: images/victor.jpg
     pronouns: he/him
     email: vortic@berkeley.edu
-    role: reader
+    role: Reader
 
 # This should be shared view-only just to students.
 google_drive_folder: https://drive.google.com/drive/u/1/folders/1XEpWDYJSL6P1JKPMms6YdhBLAC37PsyG
