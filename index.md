@@ -36,7 +36,7 @@ _Homework assignments which say "Spring 2025" at the top are last years versions
 | 11   | 4/03 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | 4/8 |
 | 12   | 4/10 | DSP, Extensions, Incompletes | [Homework 6 - Accommodations & Document Accessibility][hw6] | 4/15 |
 | 13   | 4/17 | Grading for Equity & A's for All... |  |  |
-| 14   | 4/24 | Teaching Statements & Careers pt I | [Homework 7 - Teaching Statements][hw7] | (not assigned yet)|
+| 14   | 4/24 | Teaching Statements & Careers pt I | [Homework 7 - Teaching Statements][hw7] | 5/6 |
 | 15   | 5/01 | Teaching Statements & Careers pt II | | |
 
 
